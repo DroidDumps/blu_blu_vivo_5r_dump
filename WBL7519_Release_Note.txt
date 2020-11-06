@@ -1,0 +1,226 @@
+==================
+Build Notes
+==================
+1.版本目的:
+/
+2.修改的重大问题点:
+/
+3.测试重点:
+/
+4.应用数据库是否改变:
+/
+
+==================
+Build Info
+==================
+Build Machine: BIANYI-21
+Target: -opt=TARGET_BUILD_VARIANT=user
+Start time: 2017-04-05 10:41:11
+
+==================
+Release Location
+==================
+FTP://18.8.8.2/software_release2/WBL7519/WBL7519BA_0403_T6689.zip
+
+==================
+Software Version Description
+==================
+
+
+==================
+CR List
+==================
+[Repository URL]: ssh://gerritroot@19.9.0.151:29418/android_mtk_m_6753_65t_mp1
+[Branch URL]: ssh://gerritroot@19.9.0.151:29418/android_mtk_m_6753_65t_mp1/branch_oversea_gbl7325_gbl7360_wbl7519_wbl7355_t5738_patch_rel.xml
+[Current    Tag]: TAG_WBL7519_T6689
+[Previous   Tag]: TAG_WBL7519_T6688
+currentTag:/home/android/software/BuildClient/WorkArea/gn_android_code/manifest_19.9.0.151/A_TAG_WBL7519_T6689.xml
+previousTag:/home/android/software/BuildClient/WorkArea/gn_android_code/manifest_19.9.0.151/A_TAG_WBL7519_T6688.xml
+CR01779420      Opened     zhanglz    【客户需求】固定fingerprint （1490081232）
+
+[Repository URL]: ssh://gerritroot@19.9.0.151:29418/gionee_packages_apk_amigo_4.0
+[Branch URL]: ssh://gerritroot@19.9.0.151:29418/gionee_packages_apk_amigo_4.0/WBL7519_branch_oversea_mp.xml
+[Current    Tag]: TAG_WBL7519_T6689
+[Previous   Tag]: TAG_WBL7519_T6688
+currentTag:/home/android/software/BuildClient/WorkArea/gn_android_code/manifest_19.9.0.151/G_TAG_WBL7519_T6689.xml
+previousTag:/home/android/software/BuildClient/WorkArea/gn_android_code/manifest_19.9.0.151/G_TAG_WBL7519_T6688.xml
+91303		打开		陈涛		[客户需求]修改俄语翻译
+
+是否需要签名:${signature}==================
+App Version
+==================
+/home/android/software/BuildClient/WorkArea/gn_android_code/android_mtk_m_6753_65t_mp1/android_mtk_m_6753_65t_mp1
+*** TAG_WBL7519_T6689 VS (TAG_WBL7519_T6688) ***
+(3448271-048)                           : 
+(3544822-48.phone)                      : 
+(448-137749526)                         : 
+138561921                               : 
+AdupsFota.apk                           : 5.5.0.3.004
+AdupsFotaReboot.apk                     : 5.1.0.300
+Amigo_AudioEffect.apk                   : 1.0.0.o
+Amigo_Bluetooth.apk                     : 1.0.5.y
+Amigo_Calculator.apk                    : 6.0.0.cm
+Amigo_Camera.apk                        : 4.1.0.gb
+Amigo_CarefreeLauncher.apk              : 1.3.0.iu
+Amigo_Chameleon.apk                     : 2.0.0.cd
+Amigo_Changer.apk                       : 6.3.6.cv
+Amigo_ColorfulLiveWallpaper.apk         : 2.0.0.ao
+Amigo_Compass.apk                       : 2.1.0.t
+Amigo_DeskClock.apk                     : 4.0.0.dq
+Amigo_DownloadProvider.apk              : 3.0.0.ac
+Amigo_DownloadProviderUi.apk            : 3.0.0.ac
+Amigo_FileManager.apk                   : 2.0.0.dq
+Amigo_FlashLight.apk                    : 2.1.0.am
+Amigo_Music.apk                         : 4.3.1.ia
+Amigo_NewGallery.apk                    : 5.2.2.hj
+Amigo_Note.apk                          : 2.0.3.de
+Amigo_PowerSaveLauncher.apk             : 3.0.6.gu
+Amigo_RingTone.apk                      : 5.0.0.bg
+Amigo_Search.apk                        : 1.0.2.dm
+Amigo_Settings.apk                      : 7.0.0.rh
+Amigo_SettingsProvider.apk              : 2.0.0.db
+Amigo_SoundRecorder.apk                 : 2.1.0.cm
+Amigo_StoryLocker.apk                   : 1.1.0.0gq
+Amigo_Synchronizer.apk                  : 3.0.0.aw
+Amigo_SystemManager.apk                 : 3.0.6.s015
+Amigo_SystemService.apk                 : 1.0.1.g
+Amigo_SystemUI.apk                      : 8.0.0.0lh
+Amigo_Video.apk                         : 2.0.1.dy
+Amigo_Wifi_Settings.apk                 : 2.0.0.ac
+ApplicationsProvider.apk                : 6.0-1490081232
+AtciService.apk                         : 1.0
+AutoDialer.apk                          : 1.0
+AutoMMI.apk                             : 4.1.0.cb
+BLU-help.apk                            : 3.0.3
+BSPTelephonyDevTool.apk                 : 1.0
+BackupRestoreConfirmation.apk           : 6.0-1490081232
+BasicDreams.apk                         : 6.0-1490081232
+BatteryWarning.apk                      : 6.0-1490081232
+Bluetooth.apk                           : 6.0-1490081232
+BluetoothMidiService.apk                : 6.0-1490081232
+BookmarkProvider.apk                    : 6.0-1490081232
+Books.apk                               : 3.10.29
+CMASReceiver.apk                        : 6.0-1490081232
+CalendarGoogle.apk                      : 5.6.10-141292193-release
+CalendarProvider.apk                    : 6.0-1490081232
+CallLogBackup.apk                       : 6.0-1490081232
+CaptivePortalLogin.apk                  : 6.0-1490081232
+CarrierConfig.apk                       : 1.0.0
+CertInstaller.apk                       : 6.0-1490081232
+Chrome.apk                              : 53.0.2785.124
+CloudPrint.apk                          : 1.36b
+CmasEM.apk                              : 1.0
+ConfigUpdater.apk                       : 6.0.1
+Contacts.apk                            : 6.0.0.gw
+ContactsProvider.apk                    : 6.0-1490081232
+DTurbine.apk                            : 2.1.030-dev
+DefaultContainerService.apk             : 6.0-1490081232
+DocumentsUI.apk                         : 6.0-1490081232
+DownloadProvider.apk                    : 6.0-1490081232
+DownloadProviderUi.apk                  : 6.0-1490081232
+Drive.apk                               : 2.4.452.14.45
+DrmProvider.apk                         : 6.0-1490081232
+Duo.apk                                 : 5.0.140397031.DR5_RC11
+Email.apk                               : 6.0-1490081232
+EngineerMode.apk                        : 1.0
+Exchange2.apk                           : 6.0-1490081232
+ExternalStorageProvider.apk             : 6.0-1490081232
+FMRadio.apk                             : 2.0
+FaceLock.apk                            : 6.0.1
+Fire.apk                                : 3.1.1.311
+FusedLocation.apk                       : 6.0-1490081232
+GN_LongScreenshot.apk                   : 8.0.0.aq
+GN_MMI.apk                              : 4.1.0.cy
+GN_Password.apk                         : 1.0
+GN_SmartStay.apk                        : 1.0
+GN_WakeUp.apk                           : 6.0-1490081232
+GN_WifiDirect.apk                       : 3.0.0.cb
+Galaxy4.apk                             : 1.0
+Gba.apk                                 : 6.0-1490081232
+Gmail2.apk                              : 6.11.6.140557227.release
+GmsCore.apk                             : 10.0.84
+Gn_FloatingTouch.apk                    : 6.2.0.bk
+GoogleBackupTransport.apk               : 6.0.1
+GoogleContactsSyncAdapter.apk           : 6.0.1
+GoogleFeedback.apk                      : 6.0.1
+GoogleLoginService.apk                  : 6.0.1
+GoogleOneTimeInitializer.apk            : 6.0.1
+GooglePackageInstaller.apk              : 6.0.1
+GooglePartnerSetup.apk                  : 6.0.1
+GoogleServicesFramework.apk             : 6.0.1
+GoogleTTS.apk                           : 3.10.10
+HTMLViewer.apk                          : 6.0-1490081232
+Hangouts.apk                            : 15.0.141104777
+HoloSpiralWallpaper.apk                 : 6.0-1490081232
+ImsService.apk                          : 6.0-1490081232
+InCallUI.apk                            : 6.0.1
+InputDevices.apk                        : 6.0-1490081232
+KeyChain.apk                            : 6.0-1490081232
+LatinImeGoogle.apk                      : 5.1.23.127065177-arm64-v8a
+LiveWallpapers.apk                      : 6.0-1490081232
+LiveWallpapersPicker.apk                : 6.0-1490081232
+LocationEM2.apk                         : 1.0
+MTKLogger.apk                           : 4.2.0
+MTKThermalManager.apk                   : 1.0
+ManagedProvisioning.apk                 : 6.0-1490081232
+Maps.apk                                : 9.42.3
+MediaProvider.apk                       : 6.0-1490081232
+Messenger.apk                           : 2.0.768
+MiraVision.apk                          : 6.0-1490081232
+MmsService.apk                          : 6.0-1490081232
+MtkFloatMenu.apk                        : 1.0
+Music2.apk                              : 7.0.4007-1.J.3489099
+Newsstand.apk                           : 4.0.0
+NextRadio.apk                           : 3.0.1942-release
+NoiseField.apk                          : 1.0
+Omacp.apk                               : 6.0-1490081232
+Opera_arm64.apk                         : 37.0.2192.105088
+PacProcessor.apk                        : 6.0-1490081232
+PartnerBookmarksProvider.apk            : 6.0-1490081232
+PhaseBeam.apk                           : 1.0
+Phonesky.apk                            : 7.2.13.J-all
+PhotoTable.apk                          : 6.0-1490081232
+Photos.apk                              : 2.5.0.140879878
+PlayGames.apk                           : 3.9.08
+PluginAutoScene.apk                     : 1.0.0.at
+PluginEditor.apk                        : 1.0.0.bo
+PluginFaceBeauty.apk                    : 1.1.0.bc
+PluginGifShot.apk                       : 1.1.0.bc
+PluginMicrospu.apk                      : 1.1.0.al
+PluginNightVideo.apk                    : 1.1.0.an
+PluginPanorama.apk                      : 1.0.0.aq
+PluginPicNote.apk                       : 1.1.0.ah
+PluginPolaroid.apk                      : 1.0.0.bs
+PluginProSetting.apk                    : 2.0.0.bk
+PluginScan.apk                          : 1.0.0.aw
+PluginSingleHDR.apk                     : 1.0.0.ay
+PluginSlowMotion.apk                    : 1.0.0.ba
+PluginSuperPhoto.apk                    : 1.0.0.ai
+PluginTimeLapse.apk                     : 1.0.0.aw
+PreinstallProvider.apk                  : 1.0
+PrintSpooler.apk                        : 1
+ProxyHandler.apk                        : 6.0-1490081232
+SchedulePowerOnOff.apk                  : 1.0.0.0
+SettingsProvider.apk                    : 6.0-1490081232
+SetupWizard.apk                         : 2.0
+SharedStorageBackup.apk                 : 6.0-1490081232
+Shell.apk                               : 6.0-1490081232
+SlowMotion.apk                          : 1.0.0.p
+StatementService.apk                    : 1.0
+Stk1.apk                                : 6.0-1490081232
+TeleService.apk                         : 6.0-1490081232
+Telecom.apk                             : 6.0-1490081232
+TelephonyProvider.apk                   : 6.0-1490081232
+UserDictionaryProvider.apk              : 6.0-1490081232
+VLEngine.apk                            : 6.3.6.y
+Velvet.apk                              : 6.8.23.21.arm64
+Videos.apk                              : 3.20.10
+VpnDialogs.apk                          : 6.0-1490081232
+WallpaperCropper.apk                    : 6.0-1490081232
+WebViewGoogle.apk                       : 
+WfoService.apk                          : 6.0-1490081232
+YGPS.apk                                : 1.1
+YouTube.apk                             : 11.45.59
+[0]                                     : [PR]
+talkback.apk                            : 5.0.4
+

@@ -1,0 +1,9 @@
+1.0
+shader_program circle_disappear.sp
+depth_write FALSE
+depth_test FALSE
+blend_factors SRC_ALPHA ONE ONE_MINUS_SRC_ALPHA ONE_MINUS_SRC_ALPHA
+property MIN_R float 0.7 // Diameter for inner circle
+property MAX_R float 1.03 // Diameter for outside circle
+
+property DYNAMIC bool true  // Continuous rendering

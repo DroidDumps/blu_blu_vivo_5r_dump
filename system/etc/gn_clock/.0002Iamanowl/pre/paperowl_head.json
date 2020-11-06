@@ -1,0 +1,34 @@
+	 {"LayName": "head.png", "LayWidth": 454.000000, "LayHeight": 274.000000, "LayID": 16, "ParentID": 0, "LayIn": 0.00, "LayDur": 2.04, "CompIn": 0.00, "CompDur": 2.04, "Normalization": false,
+		"SourcePath": "F:/MTKproject/clock10/head.png",
+		"Version": "150647513",
+			 	"Marker": { 
+				 }, 
+				 "AnchorPoint": { 
+					"X": 0.500000000, "Y": 0.500000000, "Z": 0.000000000
+					 }, 
+				 "Position": { 
+					"X": 00.00, "Y": 0.00, "Z": 0.00
+					 }, 
+				 "Scale": { 
+					"X": 100.00, "Y": 100.00, "Z": 100.00
+					 }, 
+				 "Orientation": { 
+					"X": 0.00, "Y": 0.00, "Z": 0.00
+					 }, 
+				 "XRotation": { 
+					"Val": 0.00
+					 }, 
+				 "YRotation": { 
+					"Val": 0.00
+					 }, 
+				 "ZRotation": { 
+					"Type":[ 0.00 , 0.00 , 0.00 , 0.00 , 0.00 ],
+					"Time":[ 0.00 , 0.88 , 1.00 , 1.88 , 2.00 ],
+					"Val":[ 10.00 , 10.00 , -10.00 , -10.00 , 10.00 ],
+					"InTanX":[ 0.00 , 0.00 , 0.00 , 0.00 , 0.00 ],
+					"OutTanX":[ 0.00 , 0.00 , 0.00 , 0.00 , 0.00 ]
+				}
+,				 "Opacity": { 
+					"Val": 100.00
+					 } 
+	}

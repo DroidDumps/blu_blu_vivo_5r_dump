@@ -1,0 +1,10 @@
+﻿version=1.0.0.c
+Engine=MAGE1
+ProjectDir=.SBClock
+FileDirName=0050vacation
+ClassName=com.gionee.amisystem.clock3d.vacation.Vacation
+DexJarName=vacation.jar
+EnglishName=Relaxing holiday
+ChineseName=悠闲假期
+Description=pause 状态下 将动画stop掉防止动画启动
+CallMode=normal

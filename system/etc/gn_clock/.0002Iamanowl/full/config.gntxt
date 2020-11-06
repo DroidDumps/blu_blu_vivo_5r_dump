@@ -1,0 +1,10 @@
+﻿version=1.0.0.b
+Engine=MAGE1
+ProjectDir=.SBClock
+FileDirName=0002paperowl
+ClassName=com.gionee.amisystem.clock3d.paperowl.PaperOwl
+DexJarName=paperowl.jar
+EnglishName=I am an owl
+ChineseName=我是猫头鹰
+Description=no data
+CallMode=normal
