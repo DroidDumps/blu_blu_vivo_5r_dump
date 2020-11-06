@@ -1,0 +1,250 @@
+==================
+Build Notes
+==================
+1.版本目的:
+/
+2.修改的重大问题点:
+/
+3.测试重点:
+/
+4.应用数据库是否改变:
+/
+
+==================
+Build Info
+==================
+Build Machine: BIANYI-8
+Target: -opt=TARGET_BUILD_VARIANT=user
+Start time: ${now}
+
+==================
+Release Location
+==================
+FTP://18.8.8.2/software_release2/WBL7519/WBL7519BA_0403_T5875.zip
+
+==================
+Software Version Description
+==================
+
+
+==================
+CR List
+==================
+[Repository URL]: ssh://gerritroot@19.9.0.151:29418/android_mtk_m_6753_65t_mp1
+[Branch URL]: ssh://gerritroot@19.9.0.151:29418/android_mtk_m_6753_65t_mp1/branch_oversea_gbl7325_gbl7360_wbl7519_wbl7355_t5478_temp_rel.xml
+[Current    Tag]: TAG_WBL7519_T5875
+[Previous   Tag]: TAG_WBL7519_T5874
+currentTag:/home/android/software/BuildClient/WorkArea/gn_android_code/manifest_19.9.0.151/A_TAG_WBL7519_T5875.xml
+previousTag:/home/android/software/BuildClient/WorkArea/gn_android_code/manifest_19.9.0.151/A_TAG_WBL7519_T5874.xml
+CR01753244      Opened     luo_jie    [7365GI] 带呼吸灯的项目，关掉宏 GN_SCREENON_RECEIVE_SMS
+CR01753746      Opened     zhanglz    【客户需求】去除Amazon apk，把版本改成25
+
+[Repository URL]: ssh://gerritroot@19.9.0.151:29418/gionee_packages_apk_amigo_4.0
+[Branch URL]: ssh://gerritroot@19.9.0.151:29418/gionee_packages_apk_amigo_4.0/WBL7519_branch_oversea_mp.xml
+[Current    Tag]: TAG_WBL7519_T5875
+[Previous   Tag]: TAG_WBL7519_T5874
+currentTag:/home/android/software/BuildClient/WorkArea/gn_android_code/manifest_19.9.0.151/G_TAG_WBL7519_T5875.xml
+previousTag:/home/android/software/BuildClient/WorkArea/gn_android_code/manifest_19.9.0.151/G_TAG_WBL7519_T5874.xml
+CR01753746      Opened     zhanglz    【客户需求】去除Amazon apk，把版本改成25
+
+是否需要签名:${signature}==================
+App Version
+==================
+/home/android/software/BuildClient/WorkArea/gn_android_code/android_mtk_m_6753_65t_mp1/android_mtk_m_6753_65t_mp1
+*** TAG_WBL7519_T5875 VS (TAG_WBL7519_T5874) ***
+(2737319-48.phone)                      : 
+(2779566-048)                           : 
+(2944354-448)                           : 
+AdupsFota.apk                           : 5.0.0.0.0 (无)
+AdupsFotaReboot.apk                     : 5.0.4 (无)
+Amigo_AudioEffect.apk                   : 1.0.0.o
+Amigo_Bluetooth.apk                     : 1.0.5.q
+Amigo_Calculator.apk                    : 6.0.0.be
+Amigo_Camera.apk                        : 4.1.0.dv
+Amigo_CarefreeLauncher.apk              : 1.3.0.fx (1.3.0.fy)
+Amigo_Chameleon.apk                     : 2.0.0.bd
+Amigo_Changer.apk                       : 6.3.6.bn
+Amigo_ColorfulLiveWallpaper.apk         : 2.0.0.ag
+Amigo_Compass.apk                       : 2.1.0.m
+Amigo_DeskClock.apk                     : 4.0.0.bx
+Amigo_DownloadProvider.apk              : 3.0.0.u
+Amigo_DownloadProviderUi.apk            : 3.0.0.u
+Amigo_FileManager.apk                   : 2.0.0.bp (2.0.0.bo)
+Amigo_FlashLight.apk                    : 2.1.0.ad
+Amigo_Music.apk                         : 4.3.1.fp
+Amigo_NewGallery.apk                    : 5.2.2.ej
+Amigo_Note.apk                          : 2.0.3.bn
+Amigo_PowerSaveLauncher.apk             : 3.0.6.cq (3.0.6.dv)
+Amigo_RingTone.apk                      : 5.0.0.aa
+Amigo_Search.apk                        : 1.0.2.co
+Amigo_Settings.apk                      : 7.0.0.hz (7.0.0.af)
+Amigo_SettingsProvider.apk              : 2.0.0.ax
+Amigo_SoundRecorder.apk                 : 2.1.0.at
+Amigo_StoryLocker.apk                   : 1.1.0.0et (1.1.0.0es)
+Amigo_Synchronizer.apk                  : 3.0.0.ae
+Amigo_SystemManager.apk                 : 3.0.6.s009 (3.0.6.df)
+Amigo_SystemService.apk                 : 1.0.1.g
+Amigo_SystemUI.apk                      : 8.0.0.0gs
+Amigo_Video.apk                         : 2.0.1.ce
+Amigo_Wifi_Settings.apk                 : 2.0.0.ac
+ApplicationsProvider.apk                : 6.0-1464337805 (6.0-1463490121)
+AtciService.apk                         : 1.0
+AutoDialer.apk                          : 1.0
+AutoMMI.apk                             : 4.1.0.bj
+BLU-help.apk                            : 2.3.1 (无)
+BSPTelephonyDevTool.apk                 : 1.0
+BackupRestoreConfirmation.apk           : 6.0-1464337805 (6.0-1463490121)
+BasicDreams.apk                         : 6.0-1464337805 (6.0-1463490121)
+BatteryWarning.apk                      : 6.0-1464337805 (6.0-1463490121)
+Bluetooth.apk                           : 6.0-1464337805 (6.0-1463490121)
+BluetoothMidiService.apk                : 6.0-1464337805 (6.0-1463490121)
+BookmarkProvider.apk                    : 6.0-1464337805 (6.0-1463490121)
+Books.apk                               : 3.8.15 (无)
+CDS_INFO.apk                            : 1.0
+CalendarGoogle.apk                      : 5.3.6-115544951-release (无)
+CalendarProvider.apk                    : 6.0-1464337805 (6.0-1463490121)
+CallLogBackup.apk                       : 6.0-1464337805 (6.0-1463490121)
+CaptivePortalLogin.apk                  : 6.0-1464337805 (6.0-1463490121)
+CarrierConfig.apk                       : 1.0.0
+CertInstaller.apk                       : 6.0-1464337805 (6.0-1463490121)
+Chrome.apk                              : 50.0.2661.89 (49.0.2623.91)
+CloudPrint.apk                          : 1.33b (无)
+ConfigUpdater.apk                       : 6.0.1
+Contacts.apk                            : 6.0.0.dp
+ContactsProvider.apk                    : 6.0-1464337805 (6.0-1463490121)
+DefaultContainerService.apk             : 6.0-1464337805 (6.0-1463490121)
+DocumentsUI.apk                         : 6.0-1464337805 (6.0-1463490121)
+DownloadProvider.apk                    : 6.0-1464337805 (6.0-1463490121)
+DownloadProviderUi.apk                  : 6.0-1464337805 (6.0-1463490121)
+Drive.apk                               : 2.4.181.13.45 (2.3.583.20.45)
+DrmProvider.apk                         : 6.0-1464337805 (6.0-1463490121)
+Email.apk                               : 6.0-1464337805 (6.0-1463490121)
+EngineerMode.apk                        : 1.0
+Exchange2.apk                           : 6.0-1464337805 (6.0-1463490121)
+ExternalStorageProvider.apk             : 6.0-1464337805 (6.0-1463490121)
+FMRadio.apk                             : 2.0
+FWUpgrade.apk                           : 1.1
+FWUpgradeProvider.apk                   : 2.3.8
+FaceLock.apk                            : 6.0.1
+Fire.apk                                : 3.0.0.218 (无)
+FusedLocation.apk                       : 6.0-1464337805 (6.0-1463490121)
+GN_LongScreenshot.apk                   : 8.0.0.ah
+GN_MMI.apk                              : 4.1.0.ce
+GN_Password.apk                         : 1.0
+GN_SmartStay.apk                        : 1.0
+GN_WakeUp.apk                           : 6.0-1464337805 (6.0-1463490121)
+GN_WifiDirect.apk                       : 3.0.0.bj
+Galaxy4.apk                             : 1.0
+Gmail2.apk                              : 6.5-1.123769152.release (6.0.115979076.release)
+GmsCore.apk                             : 8.7.05 (8.7.03)
+Gn_FloatingTouch.apk                    : 6.2.0.az
+GoogleBackupTransport.apk               : 6.0.1
+GoogleContactsSyncAdapter.apk           : 6.0.1
+GoogleFeedback.apk                      : 6.0.1
+GoogleLoginService.apk                  : 6.0.1
+GoogleMessenger.apk                     : 1.8.035 (无)
+GoogleOneTimeInitializer.apk            : 6.0.1
+GooglePackageInstaller.apk              : 6.0.1
+GooglePartnerSetup.apk                  : 6.0.1
+GoogleServicesFramework.apk             : 6.0.1
+GoogleTTS.apk                           : 3.8.17
+HTMLViewer.apk                          : 6.0-1464337805 (6.0-1463490121)
+Hangouts.apk                            : 8.1.121732641 (8.0.116581895)
+HoloSpiralWallpaper.apk                 : 6.0-1464337805 (6.0-1463490121)
+InCallUI.apk                            : 6.0.1
+InputDevices.apk                        : 6.0-1464337805 (6.0-1463490121)
+KeyChain.apk                            : 6.0-1464337805 (6.0-1463490121)
+LatinImeGoogle.apk                      : 5.0.25.122319759-arm64-v8a (4.1.23164.2622203)
+LiveWallpapers.apk                      : 6.0-1464337805 (6.0-1463490121)
+LiveWallpapersPicker.apk                : 6.0-1464337805 (6.0-1463490121)
+LocationEM2.apk                         : 1.0
+MTKLogger.apk                           : 4.0.0
+MTKThermalManager.apk                   : 1.0
+ManagedProvisioning.apk                 : 6.0-1464337805 (6.0-1463490121)
+Maps.apk                                : 9.26.1 (9.22.1)
+MediaProvider.apk                       : 6.0-1464337805 (6.0-1463490121)
+MiraVision.apk                          : 6.0-1464337805 (6.0-1463490121)
+MmsService.apk                          : 6.0-1464337805 (6.0-1463490121)
+MtkFloatMenu.apk                        : 1.0
+Music2.apk                              : 6.8.2817A.2862803 (6.5.2513X.2681020)
+Newsstand.apk                           : 3.5.2 (无)
+NextRadio.apk                           : 3.0.1559-release (无)
+NlpService.apk                          : 1.0
+NoiseField.apk                          : 1.0
+Omacp.apk                               : 6.0-1464337805 (6.0-1463490121)
+Opera_arm64.apk                         : 37.0.2192.105088 (无)
+PacProcessor.apk                        : 6.0-1464337805 (6.0-1463490121)
+PartnerBookmarksProvider.apk            : 6.0-1464337805 (6.0-1463490121)
+PhaseBeam.apk                           : 1.0
+Phonesky.apk                            : 6.4.12.C-all (6.0.5)
+PhotoTable.apk                          : 6.0-1464337805 (6.0-1463490121)
+Photos.apk                              : 1.21.0.123444480 (1.16.0.117494210)
+PlayGames.apk                           : 3.7.22 (3.6.27)
+PluginAutoScene.apk                     : 1.0.0.ag
+PluginEditor.apk                        : 1.0.0.ba
+PluginFaceBeauty.apk                    : 1.1.0.ap
+PluginGifShot.apk                       : 1.1.0.ao
+PluginMicrospu.apk                      : 1.1.0.al
+PluginNightVideo.apk                    : 1.0.0.aj
+PluginPanorama.apk                      : 1.0.0.aj
+PluginPicNote.apk                       : 1.1.0.ah
+PluginPolaroid.apk                      : 1.0.0.bf
+PluginProSetting.apk                    : 2.0.0.as
+PluginScan.apk                          : 1.0.0.al
+PluginSingleHDR.apk                     : 1.0.0.al
+PluginSlowMotion.apk                    : 1.0.0.aj
+PluginSuperPhoto.apk                    : 1.0.0.ai
+PluginTimeLapse.apk                     : 1.0.0.aj
+PreinstallProvider.apk                  : 1.0 (无)
+PrintSpooler.apk                        : 1
+ProxyHandler.apk                        : 6.0-1464337805 (6.0-1463490121)
+SchedulePowerOnOff.apk                  : 1.0.0.0
+SettingsProvider.apk                    : 6.0-1464337805 (6.0-1463490121)
+SetupWizard.apk                         : 2.0
+SharedStorageBackup.apk                 : 6.0-1464337805 (6.0-1463490121)
+Shell.apk                               : 6.0-1464337805 (6.0-1463490121)
+SlowMotion.apk                          : 1.0.0.p
+StatementService.apk                    : 1.0
+Stk1.apk                                : 6.0-1464337805 (6.0-1463490121)
+TeleService.apk                         : 6.0-1464337805 (6.0-1463490121)
+Telecom.apk                             : 6.0-1464337805 (6.0-1463490121)
+TelephonyProvider.apk                   : 6.0-1464337805 (6.0-1463490121)
+UserDictionaryProvider.apk              : 6.0-1464337805 (6.0-1463490121)
+VLEngine.apk                            : 6.3.6.y
+Velvet.apk                              : 5.13.31.21.arm64 (5.10.32.19.arm64)
+Videos.apk                              : 3.14.4 (3.12.10)
+VpnDialogs.apk                          : 6.0-1464337805 (6.0-1463490121)
+WallpaperCropper.apk                    : 6.0-1464337805 (6.0-1463490121)
+Warranteer.apk                          : 2.11.3 (无)
+WebViewGoogle.apk                       : 
+YGPS.apk                                : 1.1
+YouTube.apk                             : 11.19.56 (11.07.59)
+[0]                                     : 2744941 (无)
+talkback.apk                            : 4.5.0 (4.4.1)
+
+-- 减少了以下apk --
+(2645110-448)                           : 
+(2647216-048)                           : 
+Ami_Calendar.apk                        : 6.0.2.cm
+Ami_DataGhost.apk                       : 2.1.0.bg
+Amigo_AntiTheftTrack_GI.apk             : 1.0
+Amigo_AppSipper.apk                     : 1.0.0.a
+Amigo_DynamicWeather.apk                : 2.0.4.ck
+Amigo_KidsHome.apk                      : 1.0.1.bq
+Amigo_SettingUpdate.apk                 : 6.0.0.z
+Amigo_SystemManager_SDK.apk             : 3.0.6.df
+Amigo_Travel.apk                        : 1.0.2.ax
+Amigo_VideoEdit.apk                     : 0.6.0.ag
+DataManager.apk                         : 1.1
+GN_Push.apk                             : 2.3.0.p
+GoogleCalendarSyncAdapter.apk           : 5.2.3-99827563-release
+Mms.apk                                 : 6.0.0.ep
+MyGionee.apk                            : 2.1
+SystemUpdateAssistant.apk               : 1.0
+facebook_appmanager.apk                 : 13.1
+facebook_installer.apk                  : 13.1
+-------------------
+下载gn_project到本地临时库
+mkdir: cannot create directory `gn_apps_version': File exists
+0
+

@@ -1,0 +1,44 @@
+﻿{
+    "imgs": 
+	[
+        {
+            "ImageName": "1.jpg",
+            "ImageTitle": "Smile More",
+            "ImageContent": " It makes you beautiful. ",
+            "ImageSource": "VCG",
+            "Background": "#0071d6",
+            "ShowTimeBegin": "",
+            "ShowTimeEnd": "",            
+			"MusicName": "",
+			"MusicSinger": "",
+			"MusicURL": "",
+			"Lock": "1"
+        },
+        {
+            "ImageName": "2.jpg",
+            "ImageTitle": "It's Better to Look up",
+            "ImageContent": "Look up, not down; Look forward, not back; Look out, not in. ",
+            "ImageSource": "VCG",
+            "Background": "#805409",
+            "ShowTimeBegin": "",
+            "ShowTimeEnd": "",
+			"MusicName": "",
+			"MusicSinger": "",
+			"MusicURL": "",
+			"Lock": "0"
+        },
+        {
+            "ImageName": "3.jpg",
+            "ImageTitle": "Stay Strong ",
+            "ImageContent": "There is a rainbow after every storm.",
+            "ImageSource": "VCG",
+            "Background": "#175ea6",
+            "ShowTimeBegin": "",
+            "ShowTimeEnd": "",            
+			"MusicName": "",
+			"MusicSinger": "",
+			"MusicURL": "",
+			"Lock": "0"
+        }
+    ]
+}

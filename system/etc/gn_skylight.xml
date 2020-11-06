@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skylight>
+    <xaxis>48</xaxis>
+    <!--warning:InitAddress of y axis is constant. If changed, all of APPS need check!--> 
+    <yaxis>8</yaxis>
+    <height>888</height>
+    <width>984</width>
+</skylight>

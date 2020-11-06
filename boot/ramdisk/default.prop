@@ -1,0 +1,24 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.adb.secure=1
+persist.service.acm.enable=0
+ro.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+ro.zygote=zygote64_32
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+ro.dalvik.vm.native.bridge=0
+debug.atrace.tags.enableflags=0
+persist.sys.usb.config=mtp,adb
+ro.mount.fs=EXT4
+camera.disable_zsl_mode=1
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Sat Aug 27 20:16:57 CST 2016
+ro.bootimage.build.date.utc=1472300217
+ro.bootimage.build.fingerprint=BLU/BLU_Vivo_5R/BLU_Vivo_5R:6.0/V0090UU/1464337805:user/release-keys

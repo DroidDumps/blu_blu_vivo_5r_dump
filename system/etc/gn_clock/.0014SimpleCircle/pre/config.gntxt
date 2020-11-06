@@ -1,0 +1,10 @@
+?version=1.0.0.e
+Engine=MAGE1
+ProjectDir=.SBClock
+FileDirName=0014circle
+ClassName=com.gionee.amisystem.clock3d.circle.ClockCircle
+DexJarName=circle.jar
+EnglishName=Simple Circle
+ChineseName=ºÚ‘ºœﬂ»¶
+Description=update the clock name
+CallMode=preview

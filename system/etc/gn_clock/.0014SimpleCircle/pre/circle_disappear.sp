@@ -1,0 +1,9 @@
+1.0
+vertex_source_file circle_disappear.vert
+fragment_source_file circle_disappear.frag
+
+uniform u_time SYSTIME
+uniform u_min_r MIN_R
+uniform u_max_r MAX_R
+uniform u_texture TEXTURE
+uniform u_t_modelViewProjection T_MODEL_VIEW_PROJECTION
